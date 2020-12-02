@@ -158,7 +158,6 @@
       "new_api": "bool?"
     },
     "frontend": {
-      "host": "string?",
       "port": "int?"
     },
     "socat": {
